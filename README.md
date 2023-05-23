@@ -7,4 +7,4 @@
 😄 Pronomes: ele/eles
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsraelPontes&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelPontes&hide_progress=true)](https://github.com/IsraelPontes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelPontes&layout=compact)](https://github.com/IsraelPontes/github-readme-stats)
